@@ -2,7 +2,7 @@
 
 **`Kaikane Anderson`**
 
-Hi there! My name is Kaikane and I am a 25-year-old Python and web developer from Kauai, Hawaii. I recently moved to San Diego and am excited to start my career in the tech industry. I am a self-taught programmer with a passion for creating innovative and useful software solutions. With strong skills in Python and web development, I am able to tackle a wide range of projects and am always eager to learn and improve my skills.
+My name is Kaikane and I am a 25-year-old Python and web developer from Kauai, Hawaii. I recently moved to San Diego and am excited to start my career in the tech industry. I am a self-taught programmer with a passion for creating innovative and useful software solutions. With strong skills in Python and web development, I am able to tackle a wide range of projects and am always eager to learn and improve my skills.
 
 ---
 ### Languages and Tools
