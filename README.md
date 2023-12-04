@@ -2,7 +2,7 @@
 
 **`Kaikane Anderson`**
 
-My name is Kaikane and I am a 25-year-old web developer from Kauai, Hawaii. I recently moved to San Diego and am excited to start my career in the tech industry. I am a self-taught programmer with a passion for creating innovative and useful software solutions. With strong skills in Python and web development, I am able to tackle a wide range of projects and am always eager to learn and improve my skills.
+My name is Kaikane and I am a 26-year-old web developer from Kauai, Hawaii. I am a self-taught programmer with a passion for creating innovative and useful software solutions. With strong skills in Python, JavaScript, Node.js and other frameworks, I am able to tackle a wide range of projects and am always eager to learn and improve my skills.
 
 ---
 ### Languages and Tools
@@ -10,8 +10,6 @@ My name is Kaikane and I am a 25-year-old web developer from Kauai, Hawaii. I re
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
